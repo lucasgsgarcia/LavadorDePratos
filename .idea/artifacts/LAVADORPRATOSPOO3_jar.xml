@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LAVADORPRATOSPOO3:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="LAVADORPRATOSPOO3.jar">
+      <element id="module-output" name="LAVADORPRATOSPOO3" />
+    </root>
+  </artifact>
+</component>
